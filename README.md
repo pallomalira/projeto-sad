@@ -7,17 +7,13 @@ Este repositório contém o projeto de análise e visualização de dados sobre 
 
 O projeto visa transformar dados brutos de Comunicações de Acidente de Trabalho (CAT) em informações estratégicas, através de um dashboard interativo (Power BI), para:
 
-1.
-Identificar os agentes causadores de acidentes mais frequentes.
+1.Identificar os agentes causadores de acidentes mais frequentes.
 
-2.
-Mapear as partes do corpo mais vulneráveis.
+2.Mapear as partes do corpo mais vulneráveis.
 
-3.
-Analisar a distribuição dos acidentes por natureza da lesão e tipo de acidente (Típico, Trajeto, Doença).
+3.Analisar a distribuição dos acidentes por natureza da lesão e tipo de acidente (Típico, Trajeto, Doença).
 
-4.
-Fornecer uma base de conhecimento para a elaboração de medidas preventivas e de segurança.
+4.Fornecer uma base de conhecimento para a elaboração de medidas preventivas e de segurança.
 
 💾 Fonte de Dados
 
